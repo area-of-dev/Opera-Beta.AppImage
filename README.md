@@ -1,0 +1,1 @@
+# Opera-Beta.AppImage
